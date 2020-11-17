@@ -1,0 +1,17 @@
+h1#mealheader{
+    font-size:60px;
+}
+body{
+    padding-left:20px;
+}
+
+th{
+    font-size:45px;
+}
+td{
+    font-size:30px;
+}
+
+.homelink{
+    font-size:45px
+}
