@@ -1,17 +1,21 @@
 h1#mealheader{
-    font-size:60px;
+    font-size:60px; font-family: 'Courier New', Courier, 'times new roman', 'Times New Roman', Times, serif;
 }
 body{
-    padding-left:20px;
+    padding-left:20px; font-family: 'Courier New', Courier, 'times new roman', 'Times New Roman', Times, serif;
 }
 
 th{
-    font-size:45px;
+    font-size:45px; font-family: 'Courier New', Courier, 'times new roman', 'Times New Roman', Times, serif;
 }
 td{
-    font-size:30px;
+    font-size:30px; font-family: 'Courier New', Courier, 'times new roman', 'Times New Roman', Times, serif;
 }
 
 .homelink{
-    font-size:45px
+    font-size:45px; font-family: 'Courier New', Courier, 'times new roman', 'Times New Roman', Times, serif;
+}
+
+div.tabledata{
+    padding-left:80px;
 }
