@@ -19,3 +19,14 @@ td{
 div.tabledata{
     padding-left:80px;
 }
+.background-color{
+    background-color: #FFF4ED;
+}
+
+p{
+    color: #8F8E8D;
+}
+
+p.about-us, h2.about-us, iframe{
+    text-align: center;
+}
